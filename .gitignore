@@ -1,0 +1,33 @@
+# Arquivos e pastas de build/distribuição
+/build/
+/dist/
+
+# Pasta de logs
+/logs/
+
+# Arquivos de ambiente virtual Python
+/venv/
+/env/
+*.env
+
+# Arquivos de pacotes Python
+*.egg-info/
+/eggs/
+*.egg
+
+# Arquivos de atalho do Windows
+*.lnk
+
+# Arquivos de especificação de build (como do PyInstaller)
+*.spec
+
+# Arquivos de dados de usuário ou configurações locais
+user_data.json
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
